@@ -1,0 +1,16 @@
+{
+  "name": "Name",
+  "version": "1.0.0",
+  "description": "Description",
+  "main": "index.html",
+  "scripts": {},
+  "dependencies": {
+    "bootstrap": "5.2.0-beta1",
+    "node": "18.5.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
